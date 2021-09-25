@@ -1,4 +1,4 @@
-# ytmp3
+# youtube-mp3
 Convert YouTube videos to MP3
 
 ## Usage
